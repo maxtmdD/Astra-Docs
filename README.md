@@ -2,4 +2,4 @@
 **Тут вы сможете ознакомиться со всеми механики нашего сервера майкнрафт!**
 > # 🗡 Легендарные оружия
 **1. Катана дракона:**
-<img width="1920" height="1017" alt="2026-06-29_20 23 37" src="https://github.com/user-attachments/assets/24630e30-2514-4d71-a922-7b2cf93fe022" />
+<img width="800" height="300" alt="2026-06-29_20 23 37" src="https://github.com/user-attachments/assets/24630e30-2514-4d71-a922-7b2cf93fe022" />
