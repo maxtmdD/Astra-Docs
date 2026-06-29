@@ -9,5 +9,5 @@
 Shift+Shift - Вы совершаете взрыв. Противники отлетают и им наносится урон.
 Aura -  Имеет встроенный Заговор Огня 3.
 **Крафт:**
-https://cdn.discordapp.com/attachments/1497190137317031980/1521194369078792262/image.png?ex=6a43f228&is=6a42a0a8&hm=753a2cbfdb03767e2b6f01a98b735f4b5210f82e5f1e14d940f1d70d9b98249b&
-https://cdn.discordapp.com/attachments/1497190137317031980/1521194768028139631/image.png?ex=6a43f287&is=6a42a107&hm=4656e0b119ae1e8ea20bb114619c68c8f83f03fa42f28362eb9a6789c57e7f1d&
+<img width="367" height="163" alt="image2" src="https://github.com/user-attachments/assets/cdb5938b-9c3b-4de7-8d9a-3b91adf06b0b" /> <img width="370" height="171" alt="image1" src="https://github.com/user-attachments/assets/6bc96234-58de-4059-b9cf-edfd19edaad4" />
+
