@@ -87,10 +87,12 @@ https://github.com/user-attachments/assets/2010a1ae-2fa8-4151-87bc-0936f8aa235e
 
 
 
+
 **Рыбалка в аду** - Также на нашем сервере есть рыбалка в аду. При скрещевании в наковальне новый шаблон для удочки и удочки. Точно такая же мини-игра, как и в обчыной рыбалке, но сложнее. Также вы вместо рыбы каждый раз ловите сокровища. Всего 5 видов скоровища: Обычное, Необычное, Редкое, Эпичесмкое и Легендарное. Обчыное - 50%, Необычное - 27%, Редкое - 15%, Эпик - 7% и Легендарное - 1%. С легендарного мешка, падает со 100% шаносм Меч брута
 
 <img width="363" height="165" alt="7" src="https://github.com/user-attachments/assets/66e618d7-e0d9-417d-8b8a-326923e33d68" />
 <img width="409" height="72" alt="image6" src="https://github.com/user-attachments/assets/40a768ec-b152-40ea-a71a-c3ed07aba01b" />
+
 
 
 **Переработка сухого бетона**
@@ -98,6 +100,7 @@ https://github.com/user-attachments/assets/2010a1ae-2fa8-4151-87bc-0936f8aa235e
 
 
 https://github.com/user-attachments/assets/179545dc-e065-4c91-a201-1e1c2a9cc1b5
+
 
 
 
