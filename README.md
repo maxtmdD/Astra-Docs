@@ -5,10 +5,15 @@
 <img width="1920" height="1017" alt="2026-06-29_20 23 37" src="https://github.com/user-attachments/assets/24630e30-2514-4d71-a922-7b2cf93fe022" />
 Имеет 2 уникальных способности, и является самым простым в получении. Для его крафтьа достаточно незерита и немного терпения.
 **Способности:**
+
 ПКМ(Hold) - Вы делаете короткий рывок, который наносит урон врагам перед вами.
+
 Shift+Shift - Вы совершаете взрыв. Противники отлетают и им наносится урон.
+
 Aura -  Имеет встроенный Заговор Огня 3.
+
 **Крафт:**
+
 <img width="367" height="163" alt="image2" src="https://github.com/user-attachments/assets/cdb5938b-9c3b-4de7-8d9a-3b91adf06b0b" /> 
 <img width="370" height="171" alt="image1" src="https://github.com/user-attachments/assets/6bc96234-58de-4059-b9cf-edfd19edaad4" />
 
