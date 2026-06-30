@@ -104,7 +104,13 @@ https://github.com/user-attachments/assets/179545dc-e065-4c91-a201-1e1c2a9cc1b5
 
 
 
-Бытсрое Земледелье -
+**Быстрое Земледелье -**
+
+
+
+https://github.com/user-attachments/assets/7307f5ba-d6ca-4a19-ba31-1b00ab322b05
+
+
 
 Починка наковальни -
 
